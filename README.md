@@ -24,8 +24,12 @@ Project is created with:
 ![alt text](https://github.com/Belliee/SO2/blob/readmeFile/GAME.png)
 
 ### Final results
-![alt text](https://github.com/Belliee/SO2/blob/readmeFile/minesweeper.png)
-![alt text](https://github.com/Belliee/SO2/blob/readmeFile/minesweeper2.png)
+![alt text](https://github.com/olalaska2000/SO2/blob/master/minesweeper.png)
+
+
+
+
+![alt text](https://github.com/olalaska2000/SO2/blob/master/minesweeper2.png)
 
 ### Implementation
 #### Threads(at least 2 threads)
