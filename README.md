@@ -7,6 +7,7 @@ Izabella Juwa 252786
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Example mockup](#example-mockup)
+* [Final results](#final-results)
 * [Implementation](#implementation)
 
 
@@ -24,14 +25,18 @@ Project is created with:
 ![alt text](https://github.com/Belliee/SO2/blob/readmeFile/GAME.png)
 
 ### Final results
+* results of minesweeper game for single player
 ![alt text](https://github.com/olalaska2000/SO2/blob/master/minesweeper.png)
 
 
 
-
+* results of generated board attempting to create multiplayer game on client-server side:
 ![alt text](https://github.com/olalaska2000/SO2/blob/master/minesweeper2.png)
 
 ### Implementation
 #### Threads(at least 2 threads)
 * thread to listen and display data sent by the server
 * thread to wait for a connection from the client
+
+## Why choosing this proect?
+It brings memories of one of the first 2000s games as we used to play as kids. It is commonly known and sentimental game we had chance to create and learn new things with the usage of multithreads, semaphore etc.
